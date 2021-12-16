@@ -88,8 +88,25 @@ i
 
 {
 "Теория":"Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п.",
-"Инструменты тестирования":"Postman, Git, Charles, Jmeter, Android Studio",
-"Основы SQL":"Create, Delete, Drop, Insert Into, Select, From, Where, Join",
+"Инструменты тестирования":
+[
+    "Postman",
+	"Git",
+	"Charles",
+	"Jmeter",
+	"Android Studio"
+],
+"Основы SQL":
+[
+    "Create", 
+    "Delete", 
+	"Drop", 
+	"Insert Into", 
+	"Select", 
+	"From", 
+	"Where","Join"
+],
+
 "Язык программирования":"Python"
 }
 

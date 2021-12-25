@@ -40,7 +40,7 @@ git push --set-upstream origin Bag_Reports
 
 5. Вмержить ветку Bag Reports в Main
 
- git checkout main
+git checkout main
 git merge Bag_Reports
 
 6. Запушить main на внешний репозиторий.
@@ -57,9 +57,13 @@ git push
 Небольшое описание действия или пункта.
 
 8. Запушить структуру на внешний репозиторий
+git status
+git add .
+git commit -m "new file"
 git push
 
 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main
+На внешнем репозитории нажать на Pull Request
 
 10. Синхронизировать Внешнюю и Локальную ветки Main
 git fetch
